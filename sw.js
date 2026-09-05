@@ -1,4 +1,4 @@
-const CACHE='it-passport-study-v3';
+const CACHE='it-passport-study-v4';
 const pages=Array.from({length:46},(_,i)=>`./it-passport-assets/page-${String(i+2).padStart(2,'0')}.jpg`);
 const olderPages=['r03','r04','r05','r06'].flatMap(year=>Array.from({length:44},(_,i)=>`./it-passport-assets/${year}/page-${String(i+2).padStart(2,'0')}.jpg`));
 const staticFiles=['./','./index.html','./it-passport-study.html','./manifest.webmanifest','./firebase-config.js','./sync.js',...pages,...olderPages];
