@@ -3,7 +3,7 @@
 IPA公式公開問題を使った、スマートフォン・タブレット対応の学習ドリルです。
 
 - 公開サイト: https://otonaworld-tomo.github.io/it-passport-study/
-- 全118問
+- 全518問（令和3〜7年度の公式公開問題500問＋解説付き18問）
 - 分野別成績、復習モード
 - PWA・オフライン利用対応
 - Firebase Authentication / Cloud Firestoreによる端末間同期
