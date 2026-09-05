@@ -1,4 +1,6 @@
-# GitHub Pages＋成績同期の設定
+# GitHub Pages＋成績同期の設定記録
+
+GitHub Pages、Firebase Authentication、Cloud Firestore、セキュリティルールは設定済みです。以下は再設定時の手順です。
 
 ## 1. GitHub
 

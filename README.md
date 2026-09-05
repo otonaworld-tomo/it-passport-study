@@ -6,8 +6,8 @@ IPA公式公開問題を使った、スマートフォン・タブレット対�
 - 全118問
 - 分野別成績、復習モード
 - PWA・オフライン利用対応
-- Firebase Authentication / Cloud Firestoreによる端末間同期対応
+- Firebase Authentication / Cloud Firestoreによる端末間同期
 
-端末間同期を有効にするには、[SETUP.md](SETUP.md)に従ってFirebaseを設定してください。
+同じメールアドレスとパスワードでログインすると、端末間で成績が同期されます。
 
 問題文・選択肢・正答の出典：令和7年度 ITパスポート試験 公開問題（独立行政法人情報処理推進機構）
