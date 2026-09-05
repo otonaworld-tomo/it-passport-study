@@ -1,0 +1,11 @@
+{
+  "name": "ITパスポート 学習ドリル",
+  "short_name": "iパスドリル",
+  "description": "IPA公式公開問題で学べるITパスポート学習ドリル",
+  "start_url": "./it-passport-study.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f9",
+  "theme_color": "#0b7a75",
+  "lang": "ja"
+}
