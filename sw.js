@@ -1,4 +1,4 @@
-const CACHE='it-passport-study-v1';
+const CACHE='it-passport-study-v2';
 const pages=Array.from({length:46},(_,i)=>`./it-passport-assets/page-${String(i+2).padStart(2,'0')}.jpg`);
 const staticFiles=['./','./index.html','./it-passport-study.html','./manifest.webmanifest','./firebase-config.js','./sync.js',...pages];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(staticFiles)).then(()=>self.skipWaiting())));
